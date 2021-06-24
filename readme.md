@@ -1,5 +1,5 @@
 # Internal tool for managing mailshake campaign data and uploads into Google Sheets.
-This tool is created to automate a contact's process of retrieving data from Mailshake campaigns and upload onto Google Spreadsheets.  The actual process is meant to allow a user to keep track of outbound email activity.
+This tool is created to automate the process of retrieving custom data from Mailshake campaigns and upload onto Google Spreadsheets.  The actual process is meant to allow a user to keep track of outbound email activity by their desired parameters.
 
 # Version 1.0
 This version features script based tools.  Please refer to documentation and various articles on the webs to confirm your API access to both Mailshake and Google Sheets and understand their authentication process.  These scripts assume that you have already settled both things.
