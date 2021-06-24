@@ -2,7 +2,7 @@
 This tool is created to automate a contact's process of retrieving data from Mailshake campaigns and upload onto Google Spreadsheets.  The actual process is meant to allow a user to keep track of outbound email activity.
 
 # Version 1.0
-This version basically are script based tools.  Please refer to documentation and various articles on the webs to confirm your API access to both Mailshake and Google Sheets and understand their authentication process.  These scripts assume that you have already settled both things.
+This version features script based tools.  Please refer to documentation and various articles on the webs to confirm your API access to both Mailshake and Google Sheets and understand their authentication process.  These scripts assume that you have already settled both things.
 
 You can run the create_spreadsheets_for_log.py to create your own spreadsheet.  Please make sure you are able to retrieve their spreadsheet ID, which will be needed in the main script.  If you already have your own google spreadsheet, please take note of its ID, found on the last portion of its URL when you access it normally.
 
